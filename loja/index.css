@@ -1,0 +1,120 @@
+
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border:8px solid black;
+    background-color: yellow;
+}
+.side-bar {
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    
+}
+
+#Logo {
+    height: 210px;
+    width: 210px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+.buscar {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.pesquisar {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.favorito {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.carrinho {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.categorias {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.botao_categorias {
+    display: flex;
+    border: 2px solid black;
+    width: 150px;
+    padding: 8px;
+    border-radius: 20px;
+    text-align: center;
+}
+#celular {
+    width: 120px;
+    height: 120px;
+    margin: 5px;
+}
+#celular2 {
+    width: 120px;
+    height: 100px;
+    margin: 5px;
+}
+
+.card img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+
+}
+
+.card {
+border: 2px solid black;
+text-align: center;
+}
+#celular3 {
+    width: 120px;
+    height: 100px;
+    margin: 5px;
+
+}
+#celular4 {
+    width: 120px;
+    height: 100px;
+    margin:5px ;
+}
+.redes {
+    border: 2px solid yellow;
+    text-align: center;
+}
+.conteiner-produtos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.botao-compre {
+    border: 1px solid red;
+    background-color: yellow;
+}
+
+
+
+
+
+
